@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  star_item: one
+  station: one
+  level: MyString
+  part_code: MyString
+  description: MyText
+
+two:
+  star_item: two
+  station: two
+  level: MyString
+  part_code: MyString
+  description: MyText
